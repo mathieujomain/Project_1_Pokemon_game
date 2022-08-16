@@ -20,5 +20,5 @@ We have been using Jira to organize our work.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/gastryphon/pikachu/) 
+[Repository](https://github.com/mathieujomain/Project_1_Pokemon_game) 
 [Jira](https://feliciaonwudinjo.atlassian.net/jira/software/projects/FEL/boards/1/roadmap)
